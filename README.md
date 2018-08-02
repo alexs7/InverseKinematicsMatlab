@@ -8,21 +8,21 @@ Videos of the implementation:
 
 Screenshots:
 
-- [Cyclic Coordinate Descent no constraints, with ease-in/ease-out (sine interpolation)](https://www.youtube.com/edit?o=U&video_id=9prZmRCSpcA)
+- [Cyclic Coordinate Descent no constraints, with ease-in/ease-out (sine interpolation)](https://www.youtube.com/watch?v=9prZmRCSpcA)
 
-- [Cyclic Coordinate Descent using hard constraints, with linear interpolation](https://www.youtube.com/edit?o=U&video_id=WsIN8bGwiXA)
+- [Cyclic Coordinate Descent using hard constraints, with linear interpolation](https://www.youtube.com/watch?v=WsIN8bGwiXA)
 
-- [Damped least squares with ease-in/ease-out (sine interpolation)](https://www.youtube.com/edit?o=U&video_id=EAr3aGUB9yQ)
+- [Damped least squares with ease-in/ease-out (sine interpolation)](https://www.youtube.com/watch?v=EAr3aGUB9yQ)
 
-- [Moore-Penrose inverse with linear interpolation (added control)](https://www.youtube.com/edit?o=U&video_id=HqB0dsmd6Ew)
+- [Moore-Penrose inverse with linear interpolation (added control)](https://www.youtube.com/watch?v=HqB0dsmd6Ew)
 
-- [Moore-Penrose inverse with linear interpolation](https://www.youtube.com/edit?o=U&video_id=fVt-XbYEoqQ)
+- [Moore-Penrose inverse with linear interpolation](https://www.youtube.com/watch?v=fVt-XbYEoqQ)
 
-- [Jacobian transpose with slow-in interpolation](https://www.youtube.com/edit?o=U&video_id=SgZEpHUljvQ)
+- [Jacobian transpose with slow-in interpolation](https://www.youtube.com/watch?v=SgZEpHUljvQ)
 
-- [Realtime mouse tracking](https://www.youtube.com/edit?o=U&video_id=lsZqUw4vqJE)
+- [Realtime mouse tracking](https://www.youtube.com/watch?v=lsZqUw4vqJE)
 
-- [Damped least squares with alternate Jacobian with slow-out interpolation](https://www.youtube.com/edit?o=U&video_id=PGYvRtaebIw)
+- [Damped least squares with alternate Jacobian with slow-out interpolation](https://www.youtube.com/watch?v=PGYvRtaebIw)
 
 
 
