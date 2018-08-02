@@ -9,11 +9,9 @@ Videos of the implementation:
 Screenshots:
 
 - Cyclic Coordinate Descent no constraints, with ease-in/ease-out (sine interpolation)
-
 ![Cyclic Coordinate Descent no constraints, with ease-in/ease-out (sine interpolation)](https://www.youtube.com/edit?o=U&video_id=9prZmRCSpcA)
 
 - Cyclic Coordinate Descent using hard constraints, with linear interpolation
-
 ![Cyclic Coordinate Descent using hard constraints, with linear interpolation](https://www.youtube.com/edit?o=U&video_id=WsIN8bGwiXA)
 
 - Damped least squares with ease-in/ease-out (sine interpolation)
