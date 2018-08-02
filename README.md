@@ -6,8 +6,6 @@ Code is available on request given that this is a University coursework.
 
 Videos of the implementation:
 
-Screenshots:
-
 - [Cyclic Coordinate Descent no constraints, with ease-in/ease-out (sine interpolation)](https://www.youtube.com/watch?v=9prZmRCSpcA)
 
 - [Cyclic Coordinate Descent using hard constraints, with linear interpolation](https://www.youtube.com/watch?v=WsIN8bGwiXA)
